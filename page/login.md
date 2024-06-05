@@ -2,11 +2,9 @@
 icon: accessibility
 ---
 
-```
-Login -> Accept admin -> Page Reference
-```
+![](/static/login-admin.png)
 
-+++ Login
+<!-- +++ Login
 ![](/static/login.png)
 
 +++ Ex
@@ -17,4 +15,4 @@ Login -> Accept admin -> Page Reference
 
 +++ Page Refence
 Only after login
-+++
++++ -->

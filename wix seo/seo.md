@@ -14,3 +14,5 @@ icon: search
 4. Add your brand or business name
 
 5. Kepp titles between 50-55 characters
+
+# Meta Descriptions Guidelines
