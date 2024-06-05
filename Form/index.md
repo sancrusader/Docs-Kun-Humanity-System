@@ -4,7 +4,7 @@ icon: inbox
 # Form Volunteer
 ## Roadmap
 
-![](/static/form-volunteer.png)
+![](/static/volunteer.png)
 
 ## Automations
 Save time and engage customers with automated emails, tasks, and more.

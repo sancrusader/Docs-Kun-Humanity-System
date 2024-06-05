@@ -4,8 +4,11 @@ icon: home
 
 # Welcome
 
+
 ## Page
-- [Struktur Page](page)
+- [Structure Page](page)
+
+![](/static/home.png)
 
 ## Site Design
 - [Site Design](formatting/site-design)
