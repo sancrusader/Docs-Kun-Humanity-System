@@ -4,6 +4,7 @@ icon: inbox
 # Form
 
 ## Roadmap
+Each form follows a similar workflow, utilizing email for transmission and Google Sheets for storage. The roadmap provides a clear visual representation of the process for each form type.
 
 ## Form Contact Us
 
@@ -16,6 +17,13 @@ icon: inbox
 ## Form Volunteer
 
 ![](/static/form1.png)
+
+# How to add email
+
+How to send notification to email?
+
+![](/static/email2.png)
+
 
 ## Automations
 Save time and engage customers with automated emails, tasks, and more.
