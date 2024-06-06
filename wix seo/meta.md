@@ -1,7 +1,3 @@
----
-icon: meter
----
-
 # Meta Descriptions Guidelines
 
 

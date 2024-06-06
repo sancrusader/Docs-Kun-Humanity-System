@@ -1,7 +1,3 @@
----
-icon: search
----
-
 # Title Tag Guidelines
 
 
@@ -15,4 +11,4 @@ icon: search
 
 5. Kepp titles between 50-55 characters
 
-# Meta Descriptions Guidelines
+

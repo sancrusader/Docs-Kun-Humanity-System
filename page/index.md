@@ -1,5 +1,7 @@
 ## Structur website KUN Humanity System+
 
+![](/static/home.png)
+
 #### Navbar
 ```html
 |-- Navbar

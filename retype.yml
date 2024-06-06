@@ -4,8 +4,4 @@ url: sandifox.cloud
 branding:
   title: KUN Humanity System+
   label: Docs
-links:
-- text: Getting Started
-  link: https://retype.com/guides/getting-started/
-footer:
   copyright: "&copy; Copyright Sandi {{ year }}. All rights reserved."
