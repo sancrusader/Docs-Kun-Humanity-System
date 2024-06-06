@@ -2,6 +2,11 @@
 icon: search
 ---
 
+## Seo Assistant 
+- SEO Setup Checklist
+  
+
+
 ## Search Engine Optimization (SEO)
 Search Engine Optimization (SEO) refers to making your website more readable to search engines so they can better index your site. Adjust your site's SEO to improve its visibility in search engine results. 
 SEO requires some work, but the more you optimize, the better search engines can understand what your site is about and match you with better traffic. 
